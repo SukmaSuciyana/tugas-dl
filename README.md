@@ -47,7 +47,7 @@ Dataset menggunakan data loader dari PyTorch (CIFAR-10)
 
 ---
 
-## 📊 Hasil Training
+## 📊 Performa Model (Loss)
 
 Model dilatih selama 40 epoch menggunakan L1 Loss (Mean Absolute Error) dan optimizer `SOAP`.
 
